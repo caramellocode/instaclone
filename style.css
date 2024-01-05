@@ -285,7 +285,7 @@ land, .land-image {
         width: 363px;
         height: 700px;
         box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-        margin-left: 0px;
+        margin-left: 13px;
         border-radius: 5px;
         padding-bottom: 12px;
     } 
@@ -298,7 +298,7 @@ land, .land-image {
         width: 363px;
         height: 700px;
         box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-        margin-left: -1px;
+        margin-left: 15px;
         border-radius: 5px;
         padding-bottom: 12px;
     }
@@ -320,15 +320,14 @@ land, .land-image {
             width: 400px;
             height: 100%;
             background-color: white;
-            margin-left: 169px;
+            margin-left: 155px;
             margin-right: auto;
             margin-top: 22px;
+            overflow: visible;
         }
 }
 
-@media (max-width: 414px) {
-  
-}
+
 
 
 
